@@ -1,0 +1,27 @@
+
+f
+java:S1192w"KDefine a constant instead of duplicating this literal " HTTP/1.0
+" 4 times.(ù­öûÿÿÿÿ
+3
+java:S1643›"Use a StringBuilder instead.(ìË‚
+X
+java:S4973¨"<Strings and Boxed types should be compared using "equals()".(¿‹º‚ıÿÿÿÿ
+g
+java:S2095¬"DUse try-with-resources or close this "Socket" in a "finally" clause.(üé’×ùÿÿÿÿ8ƒÕ•ƒÀ0
+Z
+java:S2095="DUse try-with-resources or close this "Socket" in a "finally" clause.(õ ›
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(óÅÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÜÉç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å»ëÿüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(‘…“òıÿÿÿÿ
+M
+java:S1854["7Remove this useless assignment to local variable "uri".(’œÊï
+>
+java:S1481["(Remove this unused "uri" local variable.(’œÊï
+<
+java:S1659c"&Declare "location" on a separate line.(¾Ïñâ
+=
+java:S1125j"'Remove the unnecessary boolean literal.(øÃÀ¶
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
